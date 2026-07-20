@@ -5,8 +5,10 @@ A dynamic pricing console for a self-storage operator. Pick a store → run pric
 > **Architecture in one line:** a deterministic engine proposes the number; Claude explains and refines it; a human approves it.
 
 <p align="center">
-  <img src="docs/pricing-desk.png" alt="RateDesk pricing desk with recommendations" width="860">
+  <img src="docs/demo.gif" alt="RateDesk demo — run pricing, expand a rationale, approve" width="860">
 </p>
+
+<p align="center"><sub>A full pass: run pricing → review the rationale → approve. Loops.</sub></p>
 
 ---
 
